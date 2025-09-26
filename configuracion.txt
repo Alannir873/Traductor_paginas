@@ -1,0 +1,12 @@
+memoria_fisica = 32MiB
+memoria_virtual = 64MiB
+tamaño_pagina = 2KiB
+marcos_fisicos = None
+paginas_virtuales = None
+
+#En este caso podemos calcular usando marcos fisicos con paginas virtuales o conociendo la memoria fisica y la memoria virtula
+#Usamos las siguientes abreviaturas para definir los valores
+#bit: b
+#Byte: B
+#Kibibyte: KiB (2¹⁰ bytes)
+#Mebibyte: MiB (2²⁰ bytes)

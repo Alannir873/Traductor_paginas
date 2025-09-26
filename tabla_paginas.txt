@@ -1,0 +1,18 @@
+formato numero de página = hex
+formato entrada de página = hex
+
+
+
+15 3399
+38 1EC9
+A7 1604
+162 0424
+1DF 3271
+3D6 0432
+3F0 1A08
+
+
+
+
+#El formato puede ser modificado cambiando el valor ya sea por (hex, dec, bin)
+
