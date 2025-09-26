@@ -242,6 +242,17 @@ Traducción:
 - Dirección física: (231 << 12) | 154 = 946458
 ```
 
+### Ejemplo 3: Ejemplos de Traducción con Datos Reales
+
+| Dirección Virtual (hex) | Dirección Física (hex) | Dirección Física (dec) |
+|-------------------------|------------------------|------------------------|
+| 00A8D6                  | 19CC8D6                | 27,052,246             |
+| 0B1007                  | 212007                 | 2,170,887              |
+| 1EB055                  | 219055                 | 2,199,637              |
+| 1F819D                  | D0419D                 | 13,648,285             |
+
+Estos ejemplos muestran traducciones reales realizadas por el programa con diferentes direcciones virtuales y sus correspondientes direcciones físicas resultantes.
+
 ## 🔍 Casos de Uso
 
 ### 1. Simulación de Sistemas Operativos
