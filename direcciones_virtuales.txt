@@ -1,0 +1,28 @@
+# Archivo de direcciones virtuales a procesar
+# El simulador procesará estas una por una.
+
+818 dec
+
+522 dec
+
+3600 dec
+
+520 dec
+
+800 dec
+
+1024 dec
+
+1300 dec
+
+2050 dec
+
+2310 dec
+
+3080 dec
+
+2570 dec
+
+100 dec
+
+818 dec

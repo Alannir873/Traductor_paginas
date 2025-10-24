@@ -1,15 +1,24 @@
-formato numero de página = hex
-formato entrada de página = hex
+formato numero de página = dec
+formato entrada de página = dec
 
 
 
-15 3399
-38 1EC9
-A7 1604
-162 0424
-1DF 3271
-3D6 0432
-3F0 1A08
+0 197
+1 110
+2 210
+3 39
+4 28
+5 18
+6 195
+7 173
+8 84
+9 27
+10 52
+11 56
+12 9
+13 5
+14 255
+15 202
 
 
 

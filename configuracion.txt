@@ -1,6 +1,6 @@
-memoria_fisica = 32MiB
-memoria_virtual = 64MiB
-tamaño_pagina = 2KiB
+memoria_fisica = 2KiB
+memoria_virtual = 4KiB
+tamaño_pagina = 256B
 marcos_fisicos = None
 paginas_virtuales = None
 
